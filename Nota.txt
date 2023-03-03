@@ -1,0 +1,2 @@
+Debido al peso del dataset se proporciona el link de donde poder obtenerlo
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
